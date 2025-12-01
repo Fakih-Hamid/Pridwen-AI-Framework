@@ -63,6 +63,6 @@ Current research focuses on validating the framework through a planned pilot stu
 
 ### 📫 Contact
 For more information regarding this research or technical implementation details:
-**Researcher:** Fakih Hamid
-**Institution:** NAIST (Cyber-Resilience Lab)
-**Email:** fakih-hamid@proton.me
+* **Researcher:** Fakih Hamid
+* **Institution:** NAIST (Cyber-Resilience Lab)
+* **Email:** fakih-hamid@proton.me
