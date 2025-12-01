@@ -60,3 +60,9 @@ Current research focuses on validating the framework through a planned pilot stu
 ### 🔮 Future Works
 * **Cultural Adaptation:** Fine-tuning Mistral-7B to recognize region-specific social engineering cues.
 * **AI Avatar:** Implementing a visual/voice-enabled agent for real-time guidance.
+
+### 📫 Contact
+For more information regarding this research or technical implementation details:
+**Researcher:** Fakih Hamid
+**Institution:** NAIST (Cyber-Resilience Lab)
+**Email:** fakih-hamid@proton.me
