@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Lab-NAIST%20Cyber--Resilience-forestgreen?style=for-the-badge&logo=shield" alt="Cyber Resilience Lab" />
   </a>
   <a href="https://www.naist.jp/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Univ-NAIST%20(Japan)-003366?style=for-the-badge&logo=japan" alt="NAIST" />
+    <img src="https://img.shields.io/badge/Univ-NAIST%20-003366?style=for-the-badge&logo=japan" alt="NAIST" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Status-Research%20Prototype-orange?style=for-the-badge" alt="Status" />
