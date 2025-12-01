@@ -44,5 +44,5 @@ The system is built as a modular microservices architecture designed for **offli
 
 ### System Workflow
 <p align="center">
-  <img src="Pridwen Technology stack simplified.png" alt="Pridwen System Architecture" width="100%">
+  <img src="Pridwen Technology stack simplified.png" alt="Pridwen System Architecture" width="75%">
 </p>
