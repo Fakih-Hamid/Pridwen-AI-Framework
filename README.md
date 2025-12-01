@@ -21,7 +21,7 @@
 ## 📖 Project Abstract
 **Pridwen** is an offline-first, AI-Driven gamified cybersecurity education framework designed to address the "Human Factor" in digital security. It is specifically engineered to empower **beginners and non-technical users across diverse demographics**, ensuring accessible training regardless of IT background.
 
-While traditional tools are often static and cloud-dependent, Pridwen leverages **local Generative AI ** to create adaptive, culturally contextualized training scenarios without any data leaving the user's device. This ensures robust privacy while bridging the gap between theoretical knowledge and real-world behavioral resilience.
+While traditional tools are often static and cloud-dependent, Pridwen leverages **local Generative AI** to create adaptive, culturally contextualized training scenarios without any data leaving the user's device. This ensures robust privacy while bridging the gap between theoretical knowledge and real-world behavioral resilience.
 
 ## 🎮 Key System Components
 Based on the proposed research architecture, the system integrates the following modules:
