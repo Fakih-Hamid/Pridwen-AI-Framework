@@ -44,6 +44,7 @@ The system is built as a modular microservices architecture designed for **offli
 
 ### System Workflow
 
+```mermaid
 graph TD
     User["👤 End User"] -->|Interacts| UI["🎮 Gamified Interface"]
     UI -->|Selects Activity| Engine{"⚙️ Scenario / Quiz Engine"}
