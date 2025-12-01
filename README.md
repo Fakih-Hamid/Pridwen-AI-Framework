@@ -43,18 +43,6 @@ The system is built as a modular microservices architecture designed for **offli
 * **ML Framework:** PyTorch (for behavioral analytics)
 
 ### System Workflow
-
-```mermaid
-graph TD
-    User["👤 End User"] -->|Interacts| UI["🎮 Gamified Interface"]
-    UI -->|Selects Activity| Engine{"⚙️ Scenario / Quiz Engine"}
-    Engine -->|Request Context| API["🐍 Flask Backend"]
-    API -->|Prompt Engineering| LLM["🤖 Ollama / Mistral-7B (Offline)"]
-    LLM -->|Generated Content| API
-    API -->|Adaptive Feedback| UI
-    
-    subgraph "🔒Local Environment"
-    UI
-    API
-    LLM
-    end
+<p align="center">
+  <img src="Pridwen Technology stack simplified.png" alt="Pridwen System Architecture" width="100%">
+</p>
