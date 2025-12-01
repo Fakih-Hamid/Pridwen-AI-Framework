@@ -44,16 +44,15 @@ The system is built as a modular microservices architecture designed for **offli
 
 ### System Workflow
 
-```mermaid
 graph TD
-    User[End User] -->|Interacts| UI[Gamified Interface]
-    UI -->|Selects Activity| Engine{"Scenario / Quiz Engine"}
-    Engine -->|Request Context| API[Flask Backend]
-    API -->|Prompt Engineering| LLM["Ollama / Mistral-7B (Offline)"]
+    User["👤 End User"] -->|Interacts| UI["🎮 Gamified Interface"]
+    UI -->|Selects Activity| Engine{"⚙️ Scenario / Quiz Engine"}
+    Engine -->|Request Context| API["🐍 Flask Backend"]
+    API -->|Prompt Engineering| LLM["🤖 Ollama / Mistral-7B (Offline)"]
     LLM -->|Generated Content| API
     API -->|Adaptive Feedback| UI
     
-    subgraph "Secure Local Environment (No Cloud)"
+    subgraph "🔒 Secure Local Environment (No Cloud)"
     UI
     API
     LLM
