@@ -42,7 +42,7 @@ The system is built as a modular microservices architecture designed for **offli
 * **Database:** SQLite (Local storage for interaction logs)
 * **ML Framework:** PyTorch (for behavioral analytics)
 
-### System Workflow
+## 🔄 System Workflow
 <p align="center">
   <img src="Pridwen Technology stack simplified.png" alt="Pridwen System Architecture" width="75%">
 </p>
