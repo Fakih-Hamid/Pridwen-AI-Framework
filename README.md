@@ -46,3 +46,17 @@ The system is built as a modular microservices architecture designed for **offli
 <p align="center">
   <img src="Pridwen Technology stack simplified.png" alt="Pridwen System Architecture" width="75%">
 </p>
+
+## 📈 Evaluation Roadmap
+
+Current research focuses on validating the framework through a planned pilot study at NAIST, targeting three key dimensions:
+
+| Dimension | Metric | Objective |
+| :--- | :--- | :--- |
+| **1. Usability** | **SUS Score** (System Usability Scale) | Ensure the interface is accessible to non-technical users. |
+| **2. Efficacy** | **Pre/Post-Test Patterns** | Measure knowledge retention immediately after training. |
+| **3. Behavior** | **Time-to-Completion** | Analyze decision hesitation and interaction logs to detect cognitive load. |
+
+### 🔮 Future Works
+* **Cultural Adaptation:** Fine-tuning Mistral-7B to recognize region-specific social engineering cues.
+* **AI Avatar:** Implementing a visual/voice-enabled agent for real-time guidance.
