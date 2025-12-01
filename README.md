@@ -58,14 +58,3 @@ graph TD
     API
     LLM
     end
-
-
-📊 Evaluation Methodology
-
-The framework is evaluated using a combination of quantitative metrics and user-centric analysis:
-
-    Behavioral Analytics: Tracking Time-to-Completion and Decision Patterns.
-
-    Psychometric Scoring: Pre/Post-test quizzes to measure knowledge retention.
-
-    Usability: System Usability Scale (SUS) to ensure accessibility.
