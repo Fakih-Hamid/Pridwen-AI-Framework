@@ -1,4 +1,4 @@
-# Pridwen: A Privacy-Preserving Offline AI Framework for Gamified Cybersecurity Education
+ # Pridwen: A Privacy-Preserving Offline AI Framework for Gamified Cybersecurity Education
 
 <p align="center">
   <a href="https://iplab.naist.jp/" target="_blank">
@@ -49,7 +49,7 @@ The system is built as a modular microservices architecture designed for **offli
 
 ## 📈 Evaluation Roadmap
 
-Current research focuses on validating the framework through a planned pilot study at NAIST, targeting three key dimensions:
+Current research focuses on validating the framework through a planned pilot study across diverse demographics, targeting three key dimensions:
 
 | Dimension | Metric | Objective |
 | :--- | :--- | :--- |
